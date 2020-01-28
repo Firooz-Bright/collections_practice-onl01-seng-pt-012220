@@ -14,4 +14,5 @@ def swap_elements(array, index, destination_index)
   array.sort do |index,destination_index| destination_index<=> index 
 end 
 
-def 
+def reverse_array(arr)
+  arr.sort.reverse!
