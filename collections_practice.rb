@@ -18,4 +18,5 @@ def reverse_array(arr)
   arr.sort.reverse!
 end 
 
-def 
+def kesha_maker(str)
+  
