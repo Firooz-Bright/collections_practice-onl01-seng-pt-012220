@@ -10,4 +10,4 @@ def sort_array_char_count(str)
   str.sort
 end 
 
-def swap_elements()
+def swap_elements(array, index, destination_index)
