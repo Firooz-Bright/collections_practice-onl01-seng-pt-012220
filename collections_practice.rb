@@ -10,3 +10,4 @@ def sort_array_char_count(str)
   str.sort
 end 
 
+def 
