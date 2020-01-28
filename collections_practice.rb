@@ -25,3 +25,12 @@ end
 def find_a(arr)
   arr.select{|x|  x.start_with?("a")}
 end 
+
+def sum_array()
+
+
+
+
+
+
+
