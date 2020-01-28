@@ -23,4 +23,4 @@ def kesha_maker(str)
 end 
 
 def find_a(arr)
-  arr.select{|x| 
+  arr.select{|x| x.start_with
