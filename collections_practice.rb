@@ -1,13 +1,13 @@
 def sort_array_asc(array)
-  array.sort{ |i,j| i<=>j}
+  array.sort!{ |i,j| i<=>j}
 end 
 
 def sort_array_desc(arr)
-  arr.sort{ |a,b| b<=>a}
+  arr.sort!{ |a,b| b<=>a}
 end 
 
 def sort_array_char_count(str)
-  str.sort
+  str.sort!
 end 
 
 def swap_elements(array, index, destination_index)
